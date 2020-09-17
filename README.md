@@ -1,6 +1,6 @@
 # AgeCalculator
 This is a simple age calculator web application.
-<h3> made by using<b>html,css,js </b></h3>
+<h3> made by using<b> html,css,js </b></h3>
 this application determines your actual age in terms of
 Year ,months and days.
 This application also determines the number of month,
